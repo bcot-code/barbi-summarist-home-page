@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className='wrapper wrapper__full'>
       <Nav />
       <Header />
       <Content />
@@ -16,3 +16,4 @@ function App() {
 }
 
 export default App;
+

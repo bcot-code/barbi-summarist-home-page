@@ -18,12 +18,12 @@ export default function Header() {
                             <br className="remove--tablet" />
                             and even people who don’t like to read.
                         </div>
-                        <button className="btn home__cta--btn">Login</button>
+                            <button className="btn home__cta--btn">Login</button>
                         </div>
-                        <figure className="landing__image--mask">
-                        <img src="" alt="landing" />
-                        </figure>
-                    </div>
+                            <figure className="landing__image--mask">
+                                <img src="/assets/landing.png" alt="landing" />
+                            </figure>
+                        </div>
                     </div>
                 </div>
             </section>
